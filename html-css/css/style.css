@@ -1,8 +1,12 @@
+.head {
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+}
 .title {
     color:darkblue;
     font-size: 25px;
     font-weight: bold;
-    margin-top: 50px; 
     display: flex;
     flex-direction: row;
 }
